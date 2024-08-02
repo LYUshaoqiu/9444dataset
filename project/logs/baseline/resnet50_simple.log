@@ -1,0 +1,4 @@
+Namespace(dataset='simple', model='resnet50', pretrained=False, lr=1e-05, weight_decay=0.0005, num_epochs=50, patience=10, batch_norm=False, transform='simple')
+Valid Accuracy: 0.9496402877697842, Test Accuracy: 0.9533213644524237
+==============================================
+

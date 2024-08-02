@@ -1,0 +1,4 @@
+Namespace(dataset='simple', model='vit_b_16', pretrained=False, lr=2e-05, weight_decay=0.0005, num_epochs=50, patience=10, batch_norm=False, transform='simple')
+Valid Accuracy: 0.89568345323741, Test Accuracy: 0.9120287253141831
+==============================================
+

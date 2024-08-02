@@ -1,0 +1,4 @@
+Namespace(dataset='complex', model='vgg_origin', pretrained=False, lr=5e-05, weight_decay=0.0005, num_epochs=50, patience=10, batch_norm=False, transform='simple')
+Valid Accuracy: 0.7624633431085044, Test Accuracy: 0.6989247311827957
+==============================================
+

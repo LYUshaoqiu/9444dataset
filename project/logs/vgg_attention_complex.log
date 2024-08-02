@@ -1,0 +1,40 @@
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=2e-05, weight_decay=0.0005, num_epochs=30, patience=10, batch_norm=False, transform='complex')
+Valid Accuracy: 0.6539589442815249, Test Accuracy: 0.6048387096774194
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=2e-05, weight_decay=0.005, num_epochs=50, patience=10, batch_norm=False, transform='complex')
+Valid Accuracy: 0.6774193548387096, Test Accuracy: 0.6505376344086021
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=2e-05, weight_decay=0.0005, num_epochs=100, patience=10, batch_norm=False, transform='complex')
+Valid Accuracy: 0.6715542521994134, Test Accuracy: 0.6155913978494624
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=1e-05, weight_decay=0.0005, num_epochs=100, patience=20, batch_norm=False, transform='complex')
+Valid Accuracy: 0.7008797653958945, Test Accuracy: 0.6290322580645161
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=2e-05, weight_decay=0.0001, num_epochs=100, patience=20, batch_norm=False, transform='complex')
+Valid Accuracy: 0.6627565982404692, Test Accuracy: 0.6021505376344086
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=5e-05, weight_decay=0.0005, num_epochs=100, patience=20, batch_norm=False, transform='complex')
+Valid Accuracy: 0.7595307917888563, Test Accuracy: 0.7204301075268817
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=0.0001, weight_decay=0.0005, num_epochs=100, patience=20, batch_norm=False, transform='complex')
+Valid Accuracy: 0.7771260997067448, Test Accuracy: 0.7580645161290323
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=0.0002, weight_decay=0.0005, num_epochs=100, patience=20, batch_norm=False, transform='complex')
+Valid Accuracy: 0.750733137829912, Test Accuracy: 0.7204301075268817
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=0.0001, weight_decay=0.0002, num_epochs=130, patience=40, batch_norm=False, transform='complex')
+Valid Accuracy: 0.7888563049853372, Test Accuracy: 0.7365591397849462
+==============================================
+
+Namespace(dataset='complex', model='vgg_attention', pretrained=False, lr=0.0001, weight_decay=0.0005, num_epochs=120, patience=60, batch_norm=False, transform='complex')
+Valid Accuracy: 0.7917888563049853, Test Accuracy: 0.7795698924731183
+==============================================
+
